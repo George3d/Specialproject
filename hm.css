@@ -198,32 +198,30 @@ body {
     text-align: right;
 }
 .chk-box1{
-    margin-right: 19px;
-}
-.wbsit-lb{
-    margin-right: 25px;
-    margin-left: 2px;
+    margin-left: 234px;
+    margin-right: 10px;
 }
 .chk-box2{
     margin-left: 108px;
-    margin-right: 30px;
+    margin-right: 10px;
 }
 .chk-box3{
-    margin-right: 19px;
+    margin-left: 234px;
+}
+.uxdesn-lb{
+    margin-left: 10px;
 }
 .chk-box4{
-    margin-left: 108px;
-    margin-right: 60px;
+    margin-left: 135px;
 }
 .chk-box5{
-    margin-right: 89px;
+    margin-left: 234px;
 }
 .useresch-lb{
     margin-left: 10px;
 }
-.chk-box6{
-    margin-left: 108px;
-    margin-right: 135px;
+.other-chk6{
+    margin-left: 117px;
 }
 .getstard-btn{
     background-color: rgb(129, 51, 246);
@@ -234,4 +232,5 @@ body {
     border-radius: 5px;
     height: 35px;
     width: 420px;
+    margin-left: 240px;
 }
