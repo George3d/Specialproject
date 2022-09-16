@@ -190,6 +190,7 @@ body {
     height: 100px;
     width: 420px;
     border-radius: 5px;
+    text-align: top;
 }
 .name-txt5{
     margin-top: 20px;
